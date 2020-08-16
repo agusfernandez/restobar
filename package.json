@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gabinorf/Proyecto-Delilah-Resto.git"
+    "url": "git+https://github.com/agusfernandez/restobar.git"
   },
   "author": "Gabino Rodríguez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Gabinorf/Proyecto-Delilah-Resto/issues"
+    "url": "https://github.com/agusfernandez/restobar/issues"
   },
-  "homepage": "https://github.com/Gabinorf/Proyecto-Delilah-Resto#readme",
+  "homepage": "https://github.com/agusfernandez/restobar#readme",
   "dependencies": {
     "bcrypt": "^4.0.1",
     "body-parser": "^1.19.0",
