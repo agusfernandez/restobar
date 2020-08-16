@@ -1,7 +1,7 @@
 # Proyecto Delilah Restó
 
 El código que vamos a encontrar en éste repositorio corresponde al tercer proyecto de Acámica Desarrollo Web Fullstack.
-El objetivo es diseñar y desarrollar una API que respete las consignas, el proyecto solo contempla la creación de la API y consumo por algún cliente HTTP, como puede ser Postman.
+El objetivo la creación de la API y consumo por algún cliente HTTP, como puede ser Postman.
 Dentro de los recursos encontramos las vistas de UI que corresponden a los diferentes flujos y endpoints del proyecto.
 
 ## Recursos disponibles
